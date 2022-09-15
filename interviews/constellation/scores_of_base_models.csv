@@ -1,0 +1,4 @@
+cities,predict_mean,predict_zero,predict_median,min
+both,23.0,24.68,19.88,19.88
+sj,28.35,34.18,24.71,24.71
+iq,6.68,7.57,6.05,6.05
